@@ -1,0 +1,15 @@
+### Module positions - created on Mon 23 Sep 2019 12:47:18 PM MDT ###
+### Printed by Pcbnew version kicad 5.0.2+dfsg1-1
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                    PosX       PosY       Rot  Side
+C1        10uF                         TantalC_SizeD_EIA-7343_HandSoldering     5.8500    -3.6000   90.0000  top
+C2        33uF                         TantalC_SizeD_EIA-7343_HandSoldering     6.1500    -4.4000  180.0000  top
+C3        0.1uF                        C_0603_HandSoldering                     6.0250    -3.8500  180.0000  top
+C4        1.0uF                        C_0603_HandSoldering                     6.5000    -4.0000   90.0000  top
+CON1      GLCD_SD_Card                 SD_Card_Receptacle                       6.5750    -4.0000   90.0000  top
+R1        1k                           R_0603_HandSoldering                     6.3000    -4.2250  180.0000  top
+REF**     Symbol_OSHW-Logo_SilkScreen  Symbol_OSHW-Logo_SilkScreen              5.2250    -3.4500  270.0000  top
+U1        LM1117_3V3                   TO-252-2Lead                             6.1250    -3.6000  270.0000  top
+U2        74HC4050                     SO-16-N                                  5.8500    -4.0500  180.0000  top
+## End
